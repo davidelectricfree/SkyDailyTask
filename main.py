@@ -80,7 +80,7 @@ def main():
             count += 1
             # 写入文件
             md_path, html_content = spider.writeDoc(md, html, title)
-            mail.send_emails(html_content, fileList=[md_path, "run.log"]) # 支持多邮箱发送.
+           
 
     log.logger.info(f"处理完成! 新数据条数:{count}")
 
