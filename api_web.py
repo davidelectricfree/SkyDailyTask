@@ -118,9 +118,6 @@ title: %s
 date: %s
 categories: Sky光•遇
 tags: [Sky光•遇,%s]
-description: 
-index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
-banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---''' % (title, time.strftime("%Y-%m-%d %H:%M:%S"), title)
 
         # 构造文件名
