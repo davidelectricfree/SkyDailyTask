@@ -10356,3 +10356,16 @@
 2022-04-09 10:08:04,183 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6250698d34083600016e12e0/插入成功！
 2022-04-09 10:08:04,183 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-04-09 光遇小助理每日攻略 保存成功!
 2022-04-09 10:08:04,184 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2022-04-10 10:15:53,706 - main.py [line:53] - INFO: 爬取开始ing......
+2022-04-10 10:15:55,465 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-04-10 10:16:18,812 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6250698d34083600016e12e0/解析失败! list index out of range
+2022-04-10 10:16:21,471 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:22,385 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:23,172 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:24,033 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:24,901 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:25,740 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:26,641 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:63] - WARNING: https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/解析失败! list index out of range
+2022-04-10 10:16:31,085 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6251bc92849ee20001f5fe6c/插入成功！
+2022-04-10 10:16:31,086 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-04-10 光遇小助理每日攻略 保存成功!
+2022-04-10 10:16:31,086 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
