@@ -10449,3 +10449,10 @@
 2022-04-21 10:37:49,618 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/626030100c8dc60001002d32/插入成功！
 2022-04-21 10:37:49,619 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-04-21 光遇小助理每日攻略 保存成功!
 2022-04-21 10:37:49,619 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2022-04-22 10:54:59,808 - main.py [line:53] - INFO: 爬取开始ing......
+2022-04-22 10:55:01,487 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-04-22 10:55:18,625 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6260ca61849ee20001ae8e91/插入成功！
+2022-04-22 10:55:18,626 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-04-22 光遇04.21复刻攻略 保存成功!
+2022-04-22 10:55:20,274 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/6261819c849ee20001af010b/插入成功！
+2022-04-22 10:55:20,275 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-04-22 光遇小助理每日攻略 保存成功!
+2022-04-22 10:55:20,275 - main.py [line:85] - INFO: 处理完成! 新数据条数:2
