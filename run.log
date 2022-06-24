@@ -10778,3 +10778,8 @@
 2022-06-23 10:50:00,637 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/62b33ebdc5a325000142461e/插入成功！
 2022-06-23 10:50:00,638 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-06-23 光遇小助理每日攻略 保存成功!
 2022-06-23 10:50:00,638 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2022-06-24 10:49:14,597 - main.py [line:53] - INFO: 爬取开始ing......
+2022-06-24 10:49:16,727 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-06-24 10:49:34,719 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/62b49bb8340836000133426f/插入成功！
+2022-06-24 10:49:34,720 - /home/runner/work/SkyDailyTask/SkyDailyTask/api_web.py [line:148] - INFO: 2022-06-24 光遇小助理每日攻略 保存成功!
+2022-06-24 10:49:34,721 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
